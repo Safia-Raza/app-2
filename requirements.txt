@@ -4,4 +4,4 @@ groq
 pypdf
 python-docx
 openpyxl
-pydantic>=2.0
+pydantic==2.5.3
