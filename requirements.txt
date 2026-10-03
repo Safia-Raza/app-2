@@ -1,6 +1,7 @@
 streamlit
 crewai==0.28.8
 pydantic==2.5.3
+setuptools
 groq
 pypdf
 python-docx
